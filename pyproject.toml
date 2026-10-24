@@ -1,0 +1,25 @@
+[project]
+name = "blast-project"
+version = "0.1.0"
+description = "NCBI BLAST sequence analysis tool — filters and ranks top hits from BLASTx results"
+requires-python = ">=3.10"
+dependencies = [
+    "biopython>=1.88",
+    "prettytable>=3.18.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff",
+    "pytest",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP"]
+
+[tool.ruff.format]
+quote-style = "double"
