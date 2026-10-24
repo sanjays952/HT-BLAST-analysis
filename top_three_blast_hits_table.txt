@@ -1,0 +1,873 @@
+>TRINITY_DN29542_c0_g2_i1
+Has no result
+
++--------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                   Species Name                   |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++--------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|  N-alpha-acetyltransferase 50 [Jatropha curcas]  | XP_012076638 | 646.0 | 5.16741e-81 |    42.08%   |        79.01%       |
+| N-alpha-acetyltransferase 50 [Ricinus communis]  | XP_002514360 | 640.0 | 4.77822e-80 |    42.38%   |        76.69%       |
+| N-alpha-acetyltransferase 50 [Manihot esculenta] | XP_021597454 | 636.0 | 2.07812e-79 |    42.08%   |        77.78%       |
++--------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN7479_c0_g1_i1
+
+>TRINITY_DN40446_c0_g1_i1
+Has no result
+
+>TRINITY_DN52_c1_g3_i7
+Has no result
+
+>TRINITY_DN5449_c0_g2_i1
+Has no result
+
+>TRINITY_DN30970_c2_g1_i1
+Has no result
+
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                             Species Name                             |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|      probable WRKY transcription factor 33 [Hevea brasiliensis]      | XP_021664002 | 597.0 | 8.70821e-69 |    46.97%   |        73.72%       |
+|      probable WRKY transcription factor 33 [Hevea brasiliensis]      | XP_021638156 | 592.0 | 1.25982e-67 |    46.97%   |        72.26%       |
+| probable WRKY transcription factor 33 isoform X2 [Manihot esculenta] | XP_043816156 | 572.0 | 2.07421e-65 |    46.97%   |        72.44%       |
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN19132_c0_g1_i1
+
+>TRINITY_DN29867_c0_g1_i5
+Has no result
+
+>TRINITY_DN19700_c0_g1_i2
+Has no result
+
+>TRINITY_DN52474_c0_g1_i1
+Has no result
+
+>TRINITY_DN11966_c0_g1_i1
+Has no result
+
+>TRINITY_DN23358_c0_g1_i1
+Has no result
+
+>TRINITY_DN18267_c0_g2_i1
+Has no result
+
+>TRINITY_DN9144_c0_g1_i2
+Has no result
+
+>TRINITY_DN26806_c0_g2_i1
+Has no result
+
+>TRINITY_DN293_c2_g1_i1
+Has no result
+
+>TRINITY_DN3156_c0_g2_i3
+Has no result
+
+>TRINITY_DN2068_c0_g1_i3
+Has no result
+
++-------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                         Species Name                        |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++-------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|       non-specific phospholipase C2 [Ricinus communis]      | XP_048231453 | 288.0 | 4.51833e-27 |    52.11%   |        80.30%       |
+|      non-specific phospholipase C2 [Manihot esculenta]      | XP_021603609 | 274.0 | 2.97712e-25 |    52.11%   |        77.27%       |
+| non-specific phospholipase C2 isoform X2 [Arachis hypogaea] | XP_020975970 | 269.0 |  1.2276e-24 |    52.11%   |        74.24%       |
++-------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN21946_c0_g1_i1
+
+>TRINITY_DN20965_c0_g1_i3
+Has no result
+
+>TRINITY_DN2828_c0_g1_i1
+Has no result
+
+>TRINITY_DN14055_c0_g1_i2
+Has no result
+
+>TRINITY_DN11222_c1_g1_i2
+Has no result
+
+>TRINITY_DN26404_c0_g1_i1
+Has no result
+
+>TRINITY_DN42079_c0_g1_i2
+Has no result
+
+>TRINITY_DN3610_c0_g1_i1
+Has no result
+
+>TRINITY_DN31619_c0_g1_i1
+Has no result
+
+>TRINITY_DN6603_c2_g1_i1
+Has no result
+
++---------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                Species Name                               |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|            probable methyltransferase PMT3 [Hevea brasiliensis]           | XP_021640422 | 713.0 | 1.24094e-84 |    40.98%   |        84.97%       |
+|            probable methyltransferase PMT3 [Manihot esculenta]            | XP_021594833 | 702.0 | 7.19034e-83 |    40.98%   |        82.35%       |
+| LOW QUALITY PROTEIN: probable methyltransferase PMT3 [Herrania umbratica] | XP_021290831 | 700.0 | 9.32416e-83 |    40.98%   |        81.70%       |
++---------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN215_c0_g1_i1
+
+>TRINITY_DN5864_c0_g1_i1
+Has no result
+
+>TRINITY_DN4105_c0_g1_i1
+Has no result
+
+>TRINITY_DN2687_c0_g1_i2
+Has no result
+
+>TRINITY_DN41661_c0_g1_i1
+Has no result
+
+>TRINITY_DN52902_c0_g1_i1
+Has no result
+
+>TRINITY_DN38966_c0_g1_i1
+Has no result
+
+>TRINITY_DN20024_c0_g1_i5
+Has no result
+
+>TRINITY_DN54500_c0_g1_i1
+Has no result
+
+>TRINITY_DN30472_c0_g1_i1
+Has no result
+
+>TRINITY_DN28307_c0_g1_i4
+Has no result
+
++----------------------------------------------------------------------+--------------+-------+--------------+-------------+---------------------+
+|                             Species Name                             |  Accession   | Score |   E-Value    | Query Cover | Percentage Identity |
++----------------------------------------------------------------------+--------------+-------+--------------+-------------+---------------------+
+|      uncharacterized protein LOC110667105 [Hevea brasiliensis]       | XP_021683528 | 967.0 | 1.59383e-123 |    44.38%   |        74.57%       |
+| uncharacterized protein LOC110634646 isoform X1 [Hevea brasiliensis] | XP_021639416 | 957.0 | 3.83105e-122 |    44.38%   |        73.24%       |
+|  dr1-associated corepressor homolog isoform X1 [Manihot esculenta]   | XP_021610750 | 957.0 | 4.79253e-122 |    44.38%   |        71.58%       |
++----------------------------------------------------------------------+--------------+-------+--------------+-------------+---------------------+
+>TRINITY_DN1815_c3_g1_i4
+
+>TRINITY_DN2124_c0_g2_i3
+Has no result
+
+>TRINITY_DN1438_c0_g1_i2
+Has no result
+
+>TRINITY_DN31099_c0_g1_i2
+Has no result
+
+>TRINITY_DN4591_c0_g1_i1
+Has no result
+
+>TRINITY_DN19407_c0_g1_i1
+Has no result
+
+>TRINITY_DN14872_c0_g1_i1
+Has no result
+
+>TRINITY_DN1378_c0_g1_i2
+Has no result
+
+>TRINITY_DN44627_c1_g1_i1
+Has no result
+
+>TRINITY_DN35213_c0_g1_i1
+Has no result
+
+>TRINITY_DN19052_c2_g1_i3
+Has no result
+
+>TRINITY_DN1435_c0_g1_i1
+Has no result
+
+>TRINITY_DN41911_c0_g1_i1
+Has no result
+
+>TRINITY_DN9209_c0_g1_i4
+Has no result
+
+>TRINITY_DN198_c0_g1_i3
+Has no result
+
+>TRINITY_DN39512_c0_g1_i1
+Has no result
+
++----------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                    Species Name                    |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| PREDICTED: tetraspanin-8-like [Populus euphratica] | XP_011015152 | 358.0 | 1.25914e-37 |    43.69%   |        73.47%       |
+|   PREDICTED: tetraspanin-8 [Populus euphratica]    | XP_011018100 | 357.0 | 1.38675e-37 |    43.69%   |        73.47%       |
+|  PREDICTED: tetraspanin-8 [Tarenaya hassleriana]   | XP_010525757 | 349.0 | 2.24352e-36 |    40.09%   |        70.79%       |
++----------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN4110_c0_g2_i2
+
+>TRINITY_DN20067_c0_g2_i1
+Has no result
+
++------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                       Species Name                                       |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| serine hydroxymethyltransferase, mitochondrial-like [Juglans microcarpa x Juglans regia] | XP_041017263 | 280.0 | 7.48798e-26 |    43.26%   |        85.25%       |
+|           serine hydroxymethyltransferase, mitochondrial-like [Juglans regia]            | XP_018807956 | 279.0 | 8.79109e-26 |    43.26%   |        85.25%       |
+|          serine hydroxymethyltransferase 1, mitochondrial-like [Cornus florida]          | XP_059634074 | 278.0 |  1.1943e-25 |    43.26%   |        88.52%       |
++------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN10178_c0_g1_i1
+
+>TRINITY_DN38531_c1_g1_i2
+Has no result
+
+>TRINITY_DN21207_c0_g1_i1
+Has no result
+
+>TRINITY_DN57594_c0_g1_i1
+Has no result
+
+>TRINITY_DN777_c0_g1_i2
+Has no result
+
+>TRINITY_DN13701_c0_g1_i1
+Has no result
+
+>TRINITY_DN8964_c1_g1_i1
+Has no result
+
+>TRINITY_DN30005_c0_g1_i1
+Has no result
+
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                             Species Name                             |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|    transcription factor GTE10-like isoform X3 [Durio zibethinus]     | XP_022770110 | 385.0 | 1.78963e-38 |    45.69%   |        74.53%       |
+| LOW QUALITY PROTEIN: transcription factor GTE8 [Gossypium raimondii] | XP_052476700 | 382.0 | 2.14352e-38 |    46.98%   |        72.48%       |
+|       transcription factor GTE8-like isoform X2 [Populus alba]       | XP_034926124 | 368.0 | 3.07034e-36 |    47.41%   |        75.00%       |
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN44488_c0_g1_i1
+
+>TRINITY_DN12140_c0_g2_i1
+Has no result
+
+>TRINITY_DN2334_c0_g2_i6
+Has no result
+
+>TRINITY_DN16_c0_g2_i2
+Has no result
+
+>TRINITY_DN5604_c1_g1_i1
+Has no result
+
+>TRINITY_DN14932_c0_g1_i1
+Has no result
+
+>TRINITY_DN4434_c0_g1_i1
+Has no result
+
+>TRINITY_DN6628_c0_g1_i2
+Has no result
+
+>TRINITY_DN45109_c0_g1_i1
+Has no result
+
+>TRINITY_DN10704_c0_g1_i1
+Has no result
+
+>TRINITY_DN34961_c0_g1_i2
+Has no result
+
+>TRINITY_DN40153_c0_g1_i1
+Has no result
+
+>TRINITY_DN21433_c0_g1_i1
+Has no result
+
+>TRINITY_DN7479_c0_g1_i3
+Has no result
+
+>TRINITY_DN12000_c0_g2_i3
+Has no result
+
+>TRINITY_DN12264_c0_g1_i7
+Has no result
+
+>TRINITY_DN6368_c1_g1_i1
+Has no result
+
+>TRINITY_DN127_c0_g2_i3
+Has no result
+
+>TRINITY_DN24144_c0_g1_i1
+Has no result
+
+>TRINITY_DN24665_c0_g4_i1
+Has no result
+
+>TRINITY_DN555_c0_g1_i2
+Has no result
+
+>TRINITY_DN655_c2_g1_i1
+Has no result
+
+>TRINITY_DN36296_c0_g1_i1
+Has no result
+
+>TRINITY_DN3610_c0_g1_i3
+Has no result
+
+>TRINITY_DN2878_c0_g1_i3
+Has no result
+
+>TRINITY_DN6911_c0_g1_i1
+Has no result
+
+>TRINITY_DN33771_c0_g1_i1
+Has no result
+
++---------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                          Species Name                         |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| uncharacterized protein LOC120009232 [Tripterygium wilfordii] | XP_038715649 | 503.0 | 3.32988e-60 |    43.72%   |        86.24%       |
+| uncharacterized protein LOC120000004 [Tripterygium wilfordii] | XP_038703795 | 497.0 |  2.1675e-59 |    43.72%   |        85.32%       |
+|     uncharacterized protein LOC8280560 [Ricinus communis]     | XP_015573627 | 496.0 | 3.61604e-59 |    43.72%   |        84.40%       |
++---------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN6663_c0_g1_i1
+
+>TRINITY_DN4697_c0_g1_i2
+Has no result
+
++--------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                Species Name                |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++--------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| SKP1-like protein 1A [Momordica charantia] | XP_022144285 | 449.0 | 2.50421e-51 |    43.54%   |        71.09%       |
++--------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN519_c0_g1_i4
+
+>TRINITY_DN1078_c0_g1_i5
+Has no result
+
+>TRINITY_DN34177_c0_g1_i2
+Has no result
+
+>TRINITY_DN11345_c0_g2_i1
+Has no result
+
++-------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                  Species Name                                 |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++-------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|           uncharacterized protein LOC126788488 [Argentina anserina]           | XP_050370439 | 458.0 | 8.84985e-54 |    43.67%   |        71.54%       |
+|        PREDICTED: uncharacterized protein LOC18589643 [Theobroma cacao]       | XP_007014761 | 447.0 | 3.64544e-52 |    43.67%   |        71.54%       |
+| PREDICTED: uncharacterized protein LOC101295497 [Fragaria vesca subsp. vesca] | XP_004294967 | 442.0 | 1.94074e-51 |    43.67%   |        70.40%       |
++-------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN43101_c0_g1_i1
+
+>TRINITY_DN38821_c0_g1_i1
+Has no result
+
+>TRINITY_DN24563_c0_g1_i2
+Has no result
+
+>TRINITY_DN39102_c0_g1_i1
+Has no result
+
+>TRINITY_DN57083_c0_g1_i1
+Has no result
+
+>TRINITY_DN25230_c0_g1_i1
+Has no result
+
+>TRINITY_DN2484_c0_g2_i1
+Has no result
+
+>TRINITY_DN20768_c0_g1_i2
+Has no result
+
+>TRINITY_DN35898_c0_g1_i1
+Has no result
+
+>TRINITY_DN31740_c0_g1_i1
+Has no result
+
+>TRINITY_DN2127_c0_g1_i1
+Has no result
+
+>TRINITY_DN5291_c0_g3_i1
+Has no result
+
+>TRINITY_DN10957_c0_g2_i1
+Has no result
+
+>TRINITY_DN25230_c0_g1_i1
+Has no result
+
+>TRINITY_DN2484_c0_g2_i1
+Has no result
+
+>TRINITY_DN20768_c0_g1_i2
+Has no result
+
+>TRINITY_DN35898_c0_g1_i1
+Has no result
+
+>TRINITY_DN31740_c0_g1_i1
+Has no result
+
+>TRINITY_DN2127_c0_g1_i1
+Has no result
+
+>TRINITY_DN5291_c0_g3_i1
+Has no result
+
+>TRINITY_DN10957_c0_g2_i1
+Has no result
+
+>TRINITY_DN3350_c0_g1_i1
+Has no result
+
+>TRINITY_DN26990_c0_g2_i1
+Has no result
+
+>TRINITY_DN15676_c0_g1_i1
+Has no result
+
+>TRINITY_DN47995_c0_g1_i1
+Has no result
+
+>TRINITY_DN37029_c1_g1_i1
+Has no result
+
+>TRINITY_DN6396_c0_g1_i2
+Has no result
+
++-----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                              Species Name                             |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++-----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| serine/threonine-protein kinase STY46 isoform X5 [Hevea brasiliensis] | XP_057987129 | 407.0 | 8.50351e-43 |    40.27%   |        83.15%       |
+|  serine/threonine-protein kinase STY8 isoform X4 [Manihot esculenta]  | XP_043808973 | 408.0 | 1.12234e-42 |    47.06%   |        73.08%       |
+|  serine/threonine-protein kinase STY8 isoform X2 [Manihot esculenta]  | XP_043808972 | 408.0 | 1.21075e-42 |    47.06%   |        73.08%       |
++-----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN269_c1_g1_i4
+
+>TRINITY_DN23091_c0_g1_i1
+Has no result
+
+>TRINITY_DN3719_c0_g1_i1
+Has no result
+
+>TRINITY_DN19783_c0_g1_i1
+Has no result
+
++-------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                            Species Name                           |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++-------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|        E3 ubiquitin-protein ligase RHF2A [Morus notabilis]        | XP_024017504 | 616.0 | 6.52053e-74 |    41.20%   |        89.26%       |
+|       E3 ubiquitin-protein ligase RHF2A [Manihot esculenta]       | XP_021627754 | 609.0 | 6.43859e-73 |    41.20%   |        87.60%       |
+| E3 ubiquitin-protein ligase RHF2A isoform X2 [Hevea brasiliensis] | XP_021648864 | 599.0 | 1.01041e-71 |    41.20%   |        86.78%       |
++-------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN14631_c0_g1_i14
+
++-------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                            Species Name                           |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++-------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| glycine-rich protein A3-like [Juglans microcarpa x Juglans regia] | XP_040989490 | 250.0 | 1.75448e-21 |    42.32%   |        70.37%       |
+|       glycine-rich protein A3 isoform X1 [Mercurialis annua]      | XP_050232282 | 221.0 | 5.12969e-17 |    42.59%   |        71.51%       |
+|         glycine-rich protein A3-like [Carya illinoinensis]        | XP_042953940 | 215.0 | 1.28725e-16 |    42.32%   |        70.62%       |
++-------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN733_c0_g1_i1
+
++----------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|              Species Name              |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| probable fructokinase-7 [Populus alba] | XP_034929848 | 281.0 | 3.61691e-26 |    42.07%   |        76.32%       |
++----------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN23984_c0_g2_i1
+
+>TRINITY_DN24572_c1_g2_i1
+Has no result
+
+>TRINITY_DN31821_c0_g1_i5
+Has no result
+
+>TRINITY_DN37387_c1_g1_i1
+Has no result
+
++----------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                          Species Name                          |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| protein translation factor SUI1 homolog [Amborella trichopoda] | XP_006833020 | 507.0 | 1.30346e-62 |    50.00%   |        95.05%       |
+|    protein translation factor SUI1 homolog [Populus nigra]     | XP_002310461 | 505.0 | 2.32797e-62 |    50.00%   |        93.07%       |
+|  protein translation factor SUI1 homolog [Papaver somniferum]  | XP_026392512 | 505.0 | 2.48594e-62 |    50.00%   |        93.07%       |
++----------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN5163_c1_g2_i1
+
+>TRINITY_DN36379_c0_g1_i4
+Has no result
+
+>TRINITY_DN1078_c0_g1_i6
+Has no result
+
+>TRINITY_DN8889_c0_g3_i1
+Has no result
+
+>TRINITY_DN24005_c0_g1_i2
+Has no result
+
+>TRINITY_DN13680_c0_g1_i1
+Has no result
+
+>TRINITY_DN34270_c3_g1_i1
+Has no result
+
+>TRINITY_DN27653_c0_g1_i1
+Has no result
+
+>TRINITY_DN8266_c0_g1_i2
+Has no result
+
+>TRINITY_DN56439_c0_g1_i1
+Has no result
+
+>TRINITY_DN27295_c0_g1_i1
+Has no result
+
+>TRINITY_DN56249_c0_g1_i1
+Has no result
+
+>TRINITY_DN4177_c0_g1_i1
+Has no result
+
+>TRINITY_DN7617_c0_g1_i2
+Has no result
+
+>TRINITY_DN8688_c3_g1_i1
+Has no result
+
+>TRINITY_DN7493_c1_g1_i2
+Has no result
+
+>TRINITY_DN31074_c0_g1_i1
+Has no result
+
+>TRINITY_DN12292_c0_g1_i6
+Has no result
+
+>TRINITY_DN12641_c0_g1_i5
+Has no result
+
+>TRINITY_DN20263_c0_g1_i1
+Has no result
+
+>TRINITY_DN61154_c0_g1_i1
+Has no result
+
+>TRINITY_DN11389_c0_g1_i1
+Has no result
+
+>TRINITY_DN1178_c0_g1_i1
+Has no result
+
+>TRINITY_DN47848_c0_g1_i1
+Has no result
+
+>TRINITY_DN322_c0_g2_i3
+Has no result
+
++------------------------------------------------------------------------------+--------------+--------+--------------+-------------+---------------------+
+|                                 Species Name                                 |  Accession   | Score  |   E-Value    | Query Cover | Percentage Identity |
++------------------------------------------------------------------------------+--------------+--------+--------------+-------------+---------------------+
+| geranylgeranyl transferase type-2 subunit beta 1 isoform X1 [Vitis vinifera] | XP_002275861 | 1267.0 | 1.41956e-167 |    40.06%   |        86.76%       |
+| geranylgeranyl transferase type-2 subunit beta 1 isoform X1 [Vitis riparia]  | XP_034708400 | 1263.0 | 6.36958e-167 |    40.06%   |        86.40%       |
++------------------------------------------------------------------------------+--------------+--------+--------------+-------------+---------------------+
+>TRINITY_DN4100_c0_g1_i6
+
++---------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                 Species Name                |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|  chaperone protein ClpB1 [Jatropha curcas]  | XP_012080363 | 522.0 | 7.14538e-57 |    48.80%   |        77.87%       |
+| chaperone protein ClpB1 [Manihot esculenta] | XP_021615851 | 518.0 | 2.19953e-56 |    48.80%   |        77.87%       |
+|  chaperone protein ClpB1 [Ricinus communis] | XP_002514666 | 516.0 | 5.26069e-56 |    48.80%   |        77.05%       |
++---------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN6547_c0_g2_i2
+
+>TRINITY_DN6466_c1_g2_i5
+Has no result
+
++----------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                          Species Name                          |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|          auxin-responsive protein IAA4 [Populus alba]          | XP_034925003 | 232.0 |  7.9142e-21 |    47.22%   |        70.00%       |
+| PREDICTED: auxin-induced protein 22D-like [Populus euphratica] | XP_011027531 | 228.0 | 3.36642e-20 |    47.22%   |        70.00%       |
+|         auxin-induced protein 22D-like [Populus nigra]         | XP_061973738 | 227.0 | 4.47117e-20 |    47.22%   |        71.83%       |
++----------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN23232_c0_g1_i2
+
++------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                        Species Name                        |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| U2 small nuclear ribonucleoprotein A'-like [Populus nigra] | XP_006388045 | 747.0 | 7.27271e-93 |    46.17%   |        76.10%       |
+| U2 small nuclear ribonucleoprotein A'-like [Populus alba]  | XP_034921832 | 743.0 | 2.37091e-92 |    46.17%   |        75.61%       |
+| U2 small nuclear ribonucleoprotein A'-like [Populus nigra] | XP_061959257 | 732.0 | 1.14834e-90 |    46.17%   |        74.63%       |
++------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN2878_c0_g1_i6
+
+>TRINITY_DN35166_c0_g1_i1
+Has no result
+
+>TRINITY_DN1826_c0_g2_i9
+Has no result
+
+>TRINITY_DN43160_c0_g1_i1
+Has no result
+
+>TRINITY_DN42822_c0_g1_i1
+Has no result
+
+>TRINITY_DN16027_c2_g1_i1
+Has no result
+
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                             Species Name                             |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| 60S ribosomal protein L17-2-like isoform X2 [Tripterygium wilfordii] | XP_038686103 | 547.0 | 2.62506e-67 |    47.39%   |        92.66%       |
+| 60S ribosomal protein L17-2-like isoform X1 [Tripterygium wilfordii] | XP_038686102 | 547.0 | 2.86462e-67 |    47.39%   |        92.66%       |
+|           60S ribosomal protein L17-2-like [Juglans regia]           | XP_018825039 | 544.0 | 7.99417e-67 |    47.39%   |        92.66%       |
++----------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN28627_c0_g1_i2
+
+>TRINITY_DN10051_c0_g1_i2
+Has no result
+
++--------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                         Species Name                         |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++--------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|   nuclear pore complex protein NUP58 [Hevea brasiliensis]    | XP_021679739 | 282.0 |   5.45e-25  |    51.05%   |        73.55%       |
+|     nuclear pore complex protein NUP58 [Jatropha curcas]     | XP_012079149 | 276.0 | 4.80349e-24 |    51.05%   |        72.73%       |
+| nuclear pore complex protein NUP58 isoform X2 [Cucumis melo] | XP_050944688 | 268.0 | 3.74912e-23 |    51.05%   |        70.25%       |
++--------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN2662_c0_g1_i1
+
+>TRINITY_DN27814_c0_g1_i1
+Has no result
+
+>TRINITY_DN17023_c1_g1_i4
+Has no result
+
+>TRINITY_DN278_c0_g2_i4
+Has no result
+
+>TRINITY_DN2041_c0_g2_i1
+Has no result
+
+>TRINITY_DN4913_c0_g1_i2
+Has no result
+
+>TRINITY_DN1663_c0_g2_i5
+Has no result
+
+>TRINITY_DN48338_c0_g1_i1
+Has no result
+
+>TRINITY_DN40822_c0_g1_i1
+Has no result
+
+>TRINITY_DN10872_c1_g1_i1
+Has no result
+
+>TRINITY_DN46637_c0_g1_i1
+Has no result
+
+>TRINITY_DN43802_c1_g1_i1
+Has no result
+
+>TRINITY_DN44649_c0_g1_i1
+Has no result
+
+>TRINITY_DN198_c0_g1_i5
+Has no result
+
+>TRINITY_DN44649_c0_g1_i1
+Has no result
+
+>TRINITY_DN198_c0_g1_i5
+Has no result
+
+>TRINITY_DN8928_c0_g1_i1
+Has no result
+
+>TRINITY_DN31384_c0_g1_i1
+Has no result
+
+>TRINITY_DN2457_c0_g1_i2
+Has no result
+
+>TRINITY_DN18121_c1_g1_i3
+Has no result
+
+>TRINITY_DN5201_c1_g1_i3
+Has no result
+
+>TRINITY_DN4965_c0_g1_i4
+Has no result
+
+>TRINITY_DN26871_c0_g1_i1
+Has no result
+
+>TRINITY_DN28017_c0_g1_i1
+Has no result
+
+>TRINITY_DN555_c0_g1_i16
+Has no result
+
+>TRINITY_DN5527_c0_g1_i1
+Has no result
+
++--------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                        Species Name                                        |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++--------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| PREDICTED: cellulose synthase A catalytic subunit 2 [UDP-forming]-like [Nicotiana tabacum] | XP_009758840 | 572.0 | 2.66711e-63 |    41.05%   |        95.19%       |
+|         cellulose synthase A catalytic subunit 2 [UDP-forming] [Ricinus communis]          | XP_002533503 | 572.0 | 2.93712e-63 |    41.05%   |        95.19%       |
+|  PREDICTED: cellulose synthase A catalytic subunit 6 [UDP-forming] [Tarenaya hassleriana]  | XP_010520165 | 562.0 | 5.92749e-62 |    41.05%   |        91.35%       |
++--------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN21499_c0_g2_i1
+
++---------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                             Species Name                            |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|          vesicle-associated protein 1-2-like [Populus alba]         | XP_034932707 | 275.0 | 2.31335e-26 |    41.20%   |        76.06%       |
+|         vesicle-associated protein 1-2-like [Populus nigra]         | XP_002304271 | 275.0 | 2.54698e-26 |    41.20%   |        76.06%       |
+| PREDICTED: vesicle-associated protein 1-2-like [Populus euphratica] | XP_011031863 | 272.0 | 7.49482e-26 |    41.20%   |        74.65%       |
++---------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN3330_c0_g1_i2
+
+>TRINITY_DN51855_c0_g1_i1
+Has no result
+
+>TRINITY_DN27188_c0_g1_i1
+Has no result
+
+>TRINITY_DN2455_c0_g1_i3
+Has no result
+
++----------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                       Species Name                       |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| protein ELF4-LIKE 4-like isoform X1 [Actinidia eriantha] | XP_057504511 | 415.0 | 2.51189e-48 |    52.46%   |        83.33%       |
+|         protein ELF4-LIKE 4-like [Populus nigra]         | XP_002303249 | 397.0 | 3.91778e-46 |    46.45%   |        89.41%       |
+|     PREDICTED: protein ELF4-LIKE 4 [Theobroma cacao]     | XP_017978871 | 394.0 |  1.181e-45  |    46.45%   |        85.88%       |
++----------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN58236_c0_g1_i1
+
+>TRINITY_DN2498_c0_g1_i1
+Has no result
+
+>TRINITY_DN13146_c1_g1_i1
+Has no result
+
+>TRINITY_DN7826_c0_g2_i4
+Has no result
+
+>TRINITY_DN1925_c0_g1_i2
+Has no result
+
+>TRINITY_DN46720_c0_g1_i1
+Has no result
+
+>TRINITY_DN40792_c0_g1_i1
+Has no result
+
+>TRINITY_DN9966_c1_g1_i1
+Has no result
+
+>TRINITY_DN3867_c0_g1_i6
+Has no result
+
+>TRINITY_DN36142_c0_g1_i1
+Has no result
+
+>TRINITY_DN37625_c0_g1_i1
+Has no result
+
+>TRINITY_DN728_c0_g1_i2
+Has no result
+
+>TRINITY_DN2431_c1_g1_i1
+Has no result
+
+>TRINITY_DN588_c0_g2_i1
+Has no result
+
+>TRINITY_DN20796_c0_g1_i2
+Has no result
+
+>TRINITY_DN18425_c0_g1_i3
+Has no result
+
++--------------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                           Species Name                                           |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++--------------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| G-type lectin S-receptor-like serine/threonine-protein kinase At1g34300 [Tripterygium wilfordii] | XP_038699904 | 611.0 | 3.76386e-68 |    47.21%   |        72.67%       |
+|    G-type lectin S-receptor-like serine/threonine-protein kinase At1g34300 [Durio zibethinus]    | XP_022773475 | 608.0 | 1.79911e-67 |    46.93%   |        74.85%       |
+|     G-type lectin S-receptor-like serine/threonine-protein kinase At1g34300 [Quercus lobata]     | XP_030948130 | 605.0 | 2.34023e-67 |    47.49%   |        71.10%       |
++--------------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN28385_c0_g1_i1
+
+>TRINITY_DN7826_c0_g2_i1
+Has no result
+
+>TRINITY_DN1410_c0_g1_i3
+Has no result
+
+>TRINITY_DN26_c0_g1_i5
+Has no result
+
+>TRINITY_DN20029_c0_g1_i1
+Has no result
+
+>TRINITY_DN4089_c1_g1_i1
+Has no result
+
+>TRINITY_DN7826_c0_g2_i3
+Has no result
+
+>TRINITY_DN45105_c0_g1_i1
+Has no result
+
+>TRINITY_DN27778_c0_g2_i1
+Has no result
+
+>TRINITY_DN11022_c0_g1_i2
+Has no result
+
+>TRINITY_DN34053_c0_g1_i2
+Has no result
+
++-------------------------------------------------------+--------------+-------+--------------+-------------+---------------------+
+|                      Species Name                     |  Accession   | Score |   E-Value    | Query Cover | Percentage Identity |
++-------------------------------------------------------+--------------+-------+--------------+-------------+---------------------+
+|       aquaporin SIP1-1-like [Manihot esculenta]       | XP_043805332 | 866.0 | 1.10438e-110 |    47.29%   |        72.27%       |
+| aquaporin SIP1-1-like isoform X1 [Hevea brasiliensis] | XP_021684439 | 830.0 | 2.37969e-105 |    47.49%   |        70.71%       |
++-------------------------------------------------------+--------------+-------+--------------+-------------+---------------------+
+>TRINITY_DN43723_c0_g1_i2
+
+>TRINITY_DN35_c0_g3_i1
+Has no result
+
+>TRINITY_DN4361_c0_g1_i9
+Has no result
+
+>TRINITY_DN6948_c0_g1_i2
+Has no result
+
+>TRINITY_DN1888_c0_g2_i2
+Has no result
+
+>TRINITY_DN199_c0_g1_i1
+Has no result
+
++---------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                       Species Name                      |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|  CASP-like protein ARALYDRAFT_485429 [Ziziphus jujuba]  | XP_015890083 | 636.0 | 4.32908e-79 |    41.33%   |        79.47%       |
+| CASP-like protein ARALYDRAFT_485429 [Hibiscus syriacus] | XP_038999753 | 622.0 | 4.66654e-77 |    41.88%   |        80.39%       |
+| CASP-like protein ARALYDRAFT_485429 [Hibiscus syriacus] | XP_039009442 | 620.0 | 1.10172e-76 |    41.33%   |        80.13%       |
++---------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN2160_c0_g1_i3
+

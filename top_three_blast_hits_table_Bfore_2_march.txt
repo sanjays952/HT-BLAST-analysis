@@ -1,0 +1,333 @@
+>TRINITY_DN18179_c0_g1_i1_len=479
+Has no result
+
+>TRINITY_DN20323_c0_g3_i9_len=966
+Has no result
+
+>TRINITY_DN3058_c0_g1_i1_len=312
+Has no result
+
++------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                 Species Name                                 |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| heavy metal-associated isoprenylated plant protein 39-like [Cicer arietinum] | XP_004503674 | 446.0 | 3.90836e-52 |    49.94%   |        71.64%       |
+| heavy metal-associated isoprenylated plant protein 39 [Medicago truncatula]  | NP_001409341 | 443.0 | 8.59977e-52 |    49.94%   |        71.76%       |
+|  heavy metal-associated isoprenylated plant protein 39 [Mercurialis annua]   | XP_050226962 | 439.0 | 3.53091e-51 |    49.94%   |        73.28%       |
++------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN20668_c2_g3_i2_len=786
+
+>TRINITY_DN15236_c0_g1_i1_len=886
+Has no result
+
+>TRINITY_DN18187_c2_g1_i1_len=521
+Has no result
+
+>TRINITY_DN19239_c0_g2_i2_len=890
+Has no result
+
+>TRINITY_DN19760_c4_g2_i2_len=853
+Has no result
+
+>TRINITY_DN18322_c1_g9_i1_len=523
+Has no result
+
+>TRINITY_DN18844_c5_g1_i1_len=702
+Has no result
+
+>TRINITY_DN25878_c0_g1_i1_len=673
+Has no result
+
+>TRINITY_DN19147_c4_g1_i1_len=793
+Has no result
+
+>TRINITY_DN20757_c0_g44_i1_len=527
+Has no result
+
+>TRINITY_DN19459_c5_g2_i1_len=394
+Has no result
+
+>TRINITY_DN19083_c2_g4_i1_len=410
+Has no result
+
+>TRINITY_DN19601_c3_g1_i8_len=384
+Has no result
+
+>TRINITY_DN20547_c4_g1_i1_len=378
+Has no result
+
+>TRINITY_DN20216_c0_g14_i1_len=447
+Has no result
+
+>TRINITY_DN18723_c3_g5_i3_len=517
+Has no result
+
+>TRINITY_DN20340_c1_g1_i11_len=1005
+Has no result
+
+>TRINITY_DN13123_c0_g1_i1_len=534
+Has no result
+
+>TRINITY_DN18522_c0_g2_i2_len=926
+Has no result
+
+>TRINITY_DN10089_c1_g1_i1_len=1291
+Has no result
+
+>TRINITY_DN20814_c0_g1_i1_len=691
+Has no result
+
+>TRINITY_DN19817_c4_g9_i1_len=436
+Has no result
+
+>TRINITY_DN19378_c8_g1_i1_len=1147
+Has no result
+
+>TRINITY_DN20587_c0_g1_i3_len=2666
+Has no result
+
+>TRINITY_DN18816_c1_g1_i2_len=467
+Has no result
+
+>TRINITY_DN20645_c2_g3_i1_len=503
+Has no result
+
+>TRINITY_DN16652_c0_g1_i1_len=848
+Has no result
+
+>TRINITY_DN13296_c0_g1_i1_len=1015
+Has no result
+
+>TRINITY_DN19756_c1_g7_i2_len=602
+Has no result
+
+>TRINITY_DN19429_c3_g4_i1_len=781
+Has no result
+
+>TRINITY_DN18660_c3_g2_i7_len=864
+Has no result
+
+>TRINITY_DN18192_c2_g5_i1_len=422
+Has no result
+
+>TRINITY_DN7027_c0_g1_i1_len=351
+Has no result
+
+>TRINITY_DN18423_c1_g2_i1_len=399
+Has no result
+
+>TRINITY_DN19325_c0_g1_i2_len=956
+Has no result
+
+>TRINITY_DN15686_c0_g1_i1_len=796
+Has no result
+
+>TRINITY_DN2382_c0_g1_i1_len=610
+Has no result
+
+>TRINITY_DN17951_c3_g2_i1_len=1206
+Has no result
+
+>TRINITY_DN20340_c1_g1_i13_len=951
+Has no result
+
+>TRINITY_DN19287_c4_g4_i1_len=1193
+Has no result
+
+>TRINITY_DN23836_c0_g1_i1_len=339
+Has no result
+
+>TRINITY_DN7677_c0_g1_i1_len=430
+Has no result
+
+>TRINITY_DN13420_c0_g1_i1_len=474
+Has no result
+
+>TRINITY_DN18021_c0_g3_i1_len=494
+Has no result
+
+>TRINITY_DN19532_c2_g6_i1_len=438
+Has no result
+
+>TRINITY_DN25098_c0_g1_i1_len=399
+Has no result
+
+>TRINITY_DN18667_c3_g11_i1_len=1205
+Has no result
+
+>TRINITY_DN16285_c0_g1_i2_len=997
+Has no result
+
++------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                           Species Name                           |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|    uncharacterized protein LOC131176544 [Hevea brasiliensis]     | XP_021653461 | 269.0 | 3.57548e-28 |    48.56%   |        83.87%       |
+| uncharacterized protein LOC8262229 isoform X1 [Ricinus communis] | XP_015574919 | 263.0 | 3.18766e-27 |    48.56%   |        82.26%       |
+|     uncharacterized protein LOC110620620 [Manihot esculenta]     | XP_043810617 | 262.0 | 4.83029e-27 |    48.56%   |        80.65%       |
++------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN18950_c1_g3_i1_len=382
+
+>TRINITY_DN18580_c1_g2_i1_len=478
+Has no result
+
+>TRINITY_DN18949_c3_g2_i1_len=703
+Has no result
+
+>TRINITY_DN19665_c7_g4_i2_len=1012
+Has no result
+
+>TRINITY_DN19461_c3_g1_i2_len=624
+Has no result
+
+>TRINITY_DN18957_c1_g3_i2_len=452
+Has no result
+
+>TRINITY_DN20417_c3_g1_i16_len=916
+Has no result
+
+>TRINITY_DN20456_c2_g1_i1_len=584
+Has no result
+
+>TRINITY_DN13080_c0_g1_i1_len=465
+Has no result
+
++----------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                   Species Name                                   |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++----------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+| protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial isoform X2 [Manihot esculenta] | XP_021632928 | 322.0 | 1.13226e-34 |    40.78%   |        80.68%       |
+| protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial isoform X1 [Manihot esculenta] | XP_043805554 | 320.0 | 4.06769e-34 |    41.25%   |        79.78%       |
+| protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial isoform X3 [Manihot esculenta] | XP_021632929 | 315.0 | 1.19727e-33 |    40.78%   |        79.55%       |
++----------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN17770_c0_g2_i7_len=639
+
+>TRINITY_DN7257_c0_g1_i1_len=687
+Has no result
+
+>TRINITY_DN20222_c6_g1_i3_len=1919
+Has no result
+
++-----------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                    Species Name                                   |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++-----------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|  protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial isoform X2 [Manihot esculenta] | XP_021632928 | 335.0 | 1.63161e-36 |    43.06%   |        78.49%       |
+| protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial isoform X3 [Hevea brasiliensis] | XP_021681236 | 321.0 | 2.10092e-34 |    43.06%   |        75.27%       |
+|  protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial isoform X1 [Manihot esculenta] | XP_043805554 | 319.0 | 6.76745e-34 |    40.72%   |        80.68%       |
++-----------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN17770_c0_g2_i6_len=640
+
+>TRINITY_DN9478_c0_g1_i1_len=326
+Has no result
+
+>TRINITY_DN19568_c3_g5_i4_len=706
+Has no result
+
+>TRINITY_DN20505_c2_g2_i1_len=553
+Has no result
+
+>TRINITY_DN9163_c0_g1_i1_len=657
+Has no result
+
+>TRINITY_DN20135_c0_g1_i2_len=1379
+Has no result
+
+>TRINITY_DN18189_c8_g1_i1_len=625
+Has no result
+
+>TRINITY_DN20135_c0_g1_i4_len=1468
+Has no result
+
+>TRINITY_DN16222_c0_g2_i2_len=987
+Has no result
+
+>TRINITY_DN20547_c6_g1_i1_len=517
+Has no result
+
+>TRINITY_DN18833_c3_g9_i1_len=1240
+Has no result
+
+>TRINITY_DN18625_c2_g2_i1_len=1000
+Has no result
+
+>TRINITY_DN15042_c0_g2_i1_len=454
+Has no result
+
+>TRINITY_DN8273_c0_g1_i1_len=1129
+Has no result
+
+>TRINITY_DN19128_c4_g1_i1_len=734
+Has no result
+
+>TRINITY_DN20564_c3_g1_i3_len=1997
+Has no result
+
++---------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                         Species Name                                        |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|         signal recognition particle 54 kDa protein, chloroplastic [Citrus sinensis]         | XP_006481752 | 406.0 | 8.21833e-43 |    42.71%   |        95.12%       |
+|         signal recognition particle subunit SRP54, chloroplastic [Mercurialis annua]        | XP_050228132 | 405.0 | 1.14109e-42 |    44.27%   |        90.59%       |
+| PREDICTED: signal recognition particle 54 kDa protein, chloroplastic [Tarenaya hassleriana] | XP_010558224 | 398.0 | 1.31416e-41 |    44.27%   |        88.24%       |
++---------------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN26249_c0_g1_i1_len=575
+
+>TRINITY_DN18638_c1_g8_i3_len=569
+Has no result
+
+>TRINITY_DN16073_c0_g2_i1_len=1310
+Has no result
+
+>TRINITY_DN15450_c0_g4_i1_len=610
+Has no result
+
+>TRINITY_DN20090_c0_g3_i1_len=665
+Has no result
+
+>TRINITY_DN19141_c0_g1_i1_len=448
+Has no result
+
+>TRINITY_DN19721_c1_g1_i1_len=668
+Has no result
+
+>TRINITY_DN19914_c2_g2_i1_len=753
+Has no result
+
+>TRINITY_DN26739_c0_g1_i1_len=406
+Has no result
+
+>TRINITY_DN19803_c7_g2_i1_len=671
+Has no result
+
+>TRINITY_DN19089_c5_g2_i1_len=495
+Has no result
+
+>TRINITY_DN19758_c2_g1_i2_len=1093
+Has no result
+
+>TRINITY_DN20336_c6_g7_i1_len=357
+Has no result
+
+>TRINITY_DN19771_c1_g1_i6_len=540
+Has no result
+
++---------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|                                      Species Name                                     |  Accession   | Score |   E-Value   | Query Cover | Percentage Identity |
++---------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+|             protein ALTERED SEED GERMINATION 2 isoform X2 [Populus nigra]             | XP_061972644 | 413.0 | 3.21327e-43 |    44.37%   |        90.48%       |
+| PREDICTED: WD and tetratricopeptide repeats protein 1 isoform X2 [Populus euphratica] | XP_011012679 | 413.0 | 4.09809e-43 |    44.37%   |        90.48%       |
+|          protein ALTERED SEED GERMINATION 2 isoform X2 [Populus trichocarpa]          | XP_024457391 | 413.0 | 4.35095e-43 |    44.37%   |        90.48%       |
++---------------------------------------------------------------------------------------+--------------+-------+-------------+-------------+---------------------+
+>TRINITY_DN18251_c0_g1_i2_len=567
+
+>TRINITY_DN20413_c3_g1_i1_len=461
+Has no result
+
+>TRINITY_DN20021_c1_g1_i1_len=362
+Has no result
+
+>TRINITY_DN17806_c5_g3_i5_len=1152
+Has no result
+
+>TRINITY_DN15625_c0_g2_i1_len=1720
+Has no result
+
+>TRINITY_DN17806_c5_g3_i5_len=1152
+Has no result
+
