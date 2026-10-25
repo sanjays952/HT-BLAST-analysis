@@ -12,3 +12,15 @@ NCBI BLASTx sequence analysis tool that:
 python -m venv .venv
 .venv\Scripts\activate
 pip install -e .
+```
+
+## Usage
+```bash
+python main.py
+```
+
+Results are written to top_three_blast_hits_table.txt.
+
+## Dependencies
+Biopython — NCBI BLAST API
+PrettyTable — Table formatting
